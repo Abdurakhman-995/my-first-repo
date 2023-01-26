@@ -1,2 +1,2 @@
-# my-first-repo minor update!
-practice account for learning Gie
+# my-first-repo
+
